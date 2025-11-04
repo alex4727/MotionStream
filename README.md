@@ -6,7 +6,7 @@
 
 <sup>1</sup>Adobe Research · <sup>2</sup>Carnegie Mellon University · <sup>3</sup>Seoul National University
 
-[![arXiv](https://img.shields.io/badge/arXiv-2501.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2501.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.01266-b31b1b.svg)](https://arxiv.org/abs/2511.01266)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Website-blue.svg)](https://joonghyuk.com/motionstream-web/)
 
 ![MotionStream Demo](asset/teaser.gif)
@@ -17,7 +17,7 @@
 
 ## Code Release
 
-> **Note:** The code is currently under internal review. Code release may or may not occur depending on the outcome of the review process. Please refer to our paper for detailed methodology and implementation details.
+> **Note:** The code is currently under the company's internal review for open-sourcing. While we are working on it, we have not yet received a firm timeline, and the release may or may not occur depending on the outcome of the review. Since our models, data, and codebase are based on open-source resources, we hope researchers can reproduce our results using the methodology and implementation details described in the paper. If not approved, we will use this place to share some of the evaluation data and model outputs. Feel free to open an issue or contact me (joonghyuk@snu.ac.kr) with any questions. We'll keep this README updated if anything changes :)
 
 ## Citation
 
@@ -25,7 +25,7 @@
 @article{shin2025motionstream,
   title={MotionStream: Real-Time Video Generation with Interactive Motion Controls},
   author={Shin, Joonghyuk and Li, Zhengqi and Zhang, Richard and Zhu, Jun-Yan and Park, Jaesik and Schechtman, Eli and Huang, Xun},
-  journal={arXiv preprint},
+  journal={arXiv preprint:2511.01266},
   year={2025}
 }
 ```
