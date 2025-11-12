@@ -2,7 +2,7 @@
 
 # MotionStream: Real-Time Video Generation with Interactive Motion Controls
 
-[Joonghyuk Shin](https://joonghyuk.com/)<sup>1,3</sup> · [Zhengqi Li](https://zhengqili.github.io/)<sup>1</sup> · [Richard Zhang](https://richzhang.github.io/)<sup>1</sup> · [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/)<sup>2</sup> · [Jaesik Park](https://jaesik.info/)<sup>3</sup> · [Eli Schechtman](https://research.adobe.com/person/eli-shechtman/)<sup>1</sup> · [Xun Huang](https://www.xunhuang.me/)<sup>1</sup>
+[Joonghyuk Shin](https://joonghyuk.com/)<sup>1,3</sup> · [Zhengqi Li](https://zhengqili.github.io/)<sup>1</sup> · [Richard Zhang](https://richzhang.github.io/)<sup>1</sup> · [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/)<sup>2</sup> · [Jaesik Park](https://jaesik.info/)<sup>3</sup> · [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/)<sup>1</sup> · [Xun Huang](https://www.xunhuang.me/)<sup>1</sup>
 
 <sup>1</sup>Adobe Research · <sup>2</sup>Carnegie Mellon University · <sup>3</sup>Seoul National University
 
