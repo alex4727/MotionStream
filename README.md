@@ -24,7 +24,7 @@
 ```bibtex
 @article{shin2025motionstream,
   title={MotionStream: Real-Time Video Generation with Interactive Motion Controls},
-  author={Shin, Joonghyuk and Li, Zhengqi and Zhang, Richard and Zhu, Jun-Yan and Park, Jaesik and Schechtman, Eli and Huang, Xun},
+  author={Shin, Joonghyuk and Li, Zhengqi and Zhang, Richard and Zhu, Jun-Yan and Park, Jaesik and Shechtman, Eli and Huang, Xun},
   journal={arXiv preprint:2511.01266},
   year={2025}
 }
