@@ -22,10 +22,10 @@
 ## Citation
 
 ```bibtex
-@article{shin2025motionstream,
-  title={MotionStream: Real-Time Video Generation with Interactive Motion Controls},
-  author={Shin, Joonghyuk and Li, Zhengqi and Zhang, Richard and Zhu, Jun-Yan and Park, Jaesik and Shechtman, Eli and Huang, Xun},
-  journal={arXiv preprint:2511.01266},
-  year={2025}
+@inproceedings{shin2026motionstream,
+  title     = {{MotionStream: Real-Time Video Generation with Interactive Motion Controls}},
+  author    = {Shin, Joonghyuk and Li, Zhengqi and Zhang, Richard and Zhu, Jun-Yan and Park, Jaesik and Shechtman, Eli and Huang, Xun},
+  booktitle = {Proceedings of the International Conference on Learning Representations (ICLR},
+  year      = {2026}
 }
 ```
