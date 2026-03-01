@@ -2,9 +2,9 @@
 
 # MotionStream: Real-Time Video Generation with Interactive Motion Controls
 
-[Joonghyuk Shin](https://joonghyuk.com/)<sup>1,3</sup> · [Zhengqi Li](https://zhengqili.github.io/)<sup>1</sup> · [Richard Zhang](https://richzhang.github.io/)<sup>1</sup> · [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/)<sup>2</sup> · [Jaesik Park](https://jaesik.info/)<sup>3</sup> · [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/)<sup>1</sup> · [Xun Huang](https://www.xunhuang.me/)<sup>1</sup>
+[Joonghyuk Shin](https://joonghyuk.com/)<sup>1,2</sup> · [Zhengqi Li](https://zhengqili.github.io/)<sup>2</sup> · [Richard Zhang](https://richzhang.github.io/)<sup>2</sup> · [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/)<sup>3</sup> · [Jaesik Park](https://jaesik.info/)<sup>1</sup> · [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/)<sup>2</sup> · [Xun Huang](https://www.xunhuang.me/)<sup>2,4</sup>
 
-<sup>1</sup>Adobe Research · <sup>2</sup>Carnegie Mellon University · <sup>3</sup>Seoul National University
+<sup>1</sup>Seoul National University · <sup>2</sup>Adobe Research · <sup>3</sup>Carnegie Mellon University · <sup>4</sup>Morpheus AI
 
 [![arXiv](https://img.shields.io/badge/arXiv-2511.01266-b31b1b.svg)](https://arxiv.org/abs/2511.01266)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Website-blue.svg)](https://joonghyuk.com/motionstream-web/)
